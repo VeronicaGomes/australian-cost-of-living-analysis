@@ -3,6 +3,7 @@
 ## Overview
 An end-to-end data analysis project examining the cost of living trends across Sydney, Melbourne, and Brisbane over 25 years (2000-2025). The analysis focuses on Housing, Food, and Transport categories using Australian Bureau of Statistics (ABS) Consumer Price Index (CPI) data.
 
+![Dashboard Overview](dashboard_overview.png)
 ---
 
 ## Key Findings

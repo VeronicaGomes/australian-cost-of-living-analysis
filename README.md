@@ -1,4 +1,7 @@
 # 🏠 Australian Cost of Living Analysis (2000-2025)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Overview
 An end-to-end data analysis project examining the cost of living trends across Sydney, Melbourne, and Brisbane over 25 years (2000-2025). The analysis focuses on Housing, Food, and Transport categories using Australian Bureau of Statistics (ABS) Consumer Price Index (CPI) data.
